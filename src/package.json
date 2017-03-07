@@ -1,5 +1,5 @@
 {
-  "name": "skill-sample-nodejs-fact-i18n",
+  "name": "Amazing Cat Facts Skill",
   "version": "1.0.0",
   "description": "I18n version of fact skill.",
   "main": "index.js",
